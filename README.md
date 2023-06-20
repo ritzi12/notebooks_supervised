@@ -19,8 +19,9 @@ Few Notebooks are linked to Kaggle and few uploaded here in the repo
 
     This notebook is writtern for Tabular Playground Series May 2022 edition. Through this notebook we aim to discover various methods to visualise and understand the feature interactions and how to incorporate them for feature engineering.
  
- The notebook has end -to -end tutorial covers and explains what is feature interaction and how to analyse and model them using boosting models.
+    The notebook has end -to -end tutorial covers and explains what is feature interaction and how to analyse and model them using boosting models.
  
- It consists of detailed EDA , Feature Interaction Analysis, Ensemble Modelling
+    It consists of detailed EDA , Feature Interaction Analysis, Ensemble Modelling
+ 
 7. **RegressionAssumptions And Mathematical Formulation** | [Github](https://github.com/ritzi12/notebooks_supervised/blob/main/MultipleRegression.ipynb) | [Kaggle](https://www.kaggle.com/code/ritzig/regressionassumptions-and-mathematical-formulation#Regularised-Regression) | Dataset
 8. 
