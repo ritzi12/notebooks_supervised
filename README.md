@@ -16,4 +16,5 @@ Few Notebooks are linked to Kaggle and few uploaded here in the repo
    This notebook aims to understand and use SHap package for this mobile classification dataset in order to understand what are the factors which influence a mobile to be in a particular price range . Which features of a mobile affects is price and whter they impact it positively or negatively.
    
 6. **Feature Interaction Tutorial(PDP,SHAP)Ensemble Model** | Github | [Kaggle](https://www.kaggle.com/code/ritzig/feature-interaction-tutorial-pdp-shap-ensemble-mod) | Dataset
-7. **Classification Feature Selection : SHAP Tutorial** | Github | [Kaggle](https://www.kaggle.com/code/ritzig/classification-feature-selection-shap-tutorial) | Dataset
+7. **RegressionAssumptions And Mathematical Formulation** | Github | [Kaggle](https://www.kaggle.com/code/ritzig/regressionassumptions-and-mathematical-formulation#Regularised-Regression) | Dataset
+8. 
